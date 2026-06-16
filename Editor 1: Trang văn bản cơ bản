@@ -1,0 +1,31 @@
+<!-- TODO: Editor 1: Trang văn bản cơ bản
+Yêu cầu: Tạo trang có h1, h2, ít nhất 2 p, strong và em.
+Gợi ý: Dùng đúng vai trò thẻ văn bản.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+
+   <h1>Học HTML Cơ Bản</h1>
+
+  <h2>Giới thiệu</h2>
+
+  <p>
+    HTML là ngôn ngữ dùng để xây dựng cấu trúc của trang web.
+    <strong>HTML rất quan trọng</strong> đối với lập trình web.
+  </p>
+
+  <p>
+    Khi học HTML, bạn nên thực hành thường xuyên và
+    <em>chú ý đến ý nghĩa của từng thẻ</em>.
+  </p>
+
+</body>
+</html>
