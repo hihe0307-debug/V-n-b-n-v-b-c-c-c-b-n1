@@ -1,0 +1,22 @@
+<!-- TODO: Editor 3: Div và span
+Yêu cầu: Tạo đoạn thông báo có div class="thong-bao" và span class="quan-trong".
+Gợi ý: Dựa vào ví dụ hạn nộp bài.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+
+   <div class="thong-bao">
+    Hạn nộp bài:
+    <span class="quan-trong">30/06/2026</span>
+  </div>
+
+</body>
+</html>
