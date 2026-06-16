@@ -1,0 +1,35 @@
+<!-- TODO: Editor 2: Bố cục semantic
+Yêu cầu: Tạo trang dùng header, nav, main, section, footer.
+Gợi ý: Dựa vào ví dụ bố cục trong mục 2.2.2.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+ 
+<header>
+    <h1>Tiêu đề trang</h1>
+  </header>
+
+  <nav>
+    Menu điều hướng
+  </nav>
+
+  <main>
+    <section>
+      Nội dung chính
+    </section>
+  </main>
+
+  <footer>
+    Chân trang
+  </footer>
+
+</body>
+</html>
