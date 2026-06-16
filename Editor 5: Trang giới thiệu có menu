@@ -1,0 +1,35 @@
+<!-- TODO: Editor 5: Trang giới thiệu có menu
+Yêu cầu: Tạo trang giới thiệu môn học có menu Trang chủ, Bài học, Liên hệ.
+Gợi ý: Menu nên nằm trong nav.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+
+   <header>
+    <h1>Giới Thiệu Môn Học HTML</h1>
+  </header>
+
+  <nav>
+    <a href="#">Trang chủ</a>
+    <a href="#">Bài học</a>
+    <a href="#">Liên hệ</a>
+  </nav>
+
+  <main>
+    <h2>Giới thiệu</h2>
+    <p>
+      Đây là môn học giúp sinh viên làm quen với HTML và cách xây dựng
+      cấu trúc cơ bản của một trang web.
+    </p>
+  </main>
+
+</body>
+</html>
